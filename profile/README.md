@@ -4,9 +4,7 @@
 
 Nous sommes des experts en solutions technologiques adaptées aux processus de production et aux équipements des usines de 1ère et 2ème transformation du bois.
 
-## Visitez notre site
-
-<a href="https://effecto.ca/">
+## <a href="https://effecto.ca/">Visitez notre site Web
 
 ## Suivez-nous sur les réseaux sociaux
 
