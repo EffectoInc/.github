@@ -16,9 +16,13 @@ Nous sommes des experts en solutions technologiques adaptées aux processus de p
 ### EFFECTO OnSite
 
 Prenez le contrôle de votre usine
+
 Passez votre usine en 4.0 avec notre suite logicielle ERP / MES* qui saura améliorer votre efficacité dans les bureaux, la cour et l'usine.
+
+<em>*Un "Manufacturing Execution System" est un logiciel de gestion de la production</em>
 
 ### EFFECTO InSite
 
 Pilotez votre usine
-Faites parler les données pour identifier les anomalies. Nos tableaux de bord vous permettront également de prendre les bonnes décisions pour optimiser la performance des différents départements de votre usine.****
+
+Faites parler les données pour identifier les anomalies. Nos tableaux de bord vous permettront également de prendre les bonnes décisions pour optimiser la performance des différents départements de votre usine.
